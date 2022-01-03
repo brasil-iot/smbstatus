@@ -1,1 +1,1 @@
-script used to monitor samba connections (shares) with option to force user disconnection or share restart
+PHP script used to monitor samba (smb) connections (shares) with option to force user disconnection or share restart
