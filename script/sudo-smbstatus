@@ -1,1 +1,1 @@
-www-data ALL=NOPASSWD: /usr/bin/smbstatus
+www-data ALL=NOPASSWD: /usr/bin/smbstatus /usr/sbin/service /usr/bin/kill
